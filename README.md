@@ -3,7 +3,14 @@ Framework7 + Vue + Cordova + Barcode scanner
 
 Based almost entirely from: https://github.com/hazzo/framework7-vue-webpack-cordova-template
 
+```
 Credits: 
+
+@nolimits4web
+@hazzo
+
+```
+
 Change was adding in config.xml the following for [barcode scanner](https://github.com/phonegap/phonegap-plugin-barcodescanner/issues/540):
 
 ```xml
